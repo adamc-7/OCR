@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OCR.iml" filepath="$PROJECT_DIR$/.idea/OCR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../efip/.idea/efip.iml" filepath="$PROJECT_DIR$/../efip/.idea/efip.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../imageEnhancmentGUI/.idea/imageEnhancmentGUI.iml" filepath="$PROJECT_DIR$/../imageEnhancmentGUI/.idea/imageEnhancmentGUI.iml" />
+    </modules>
+  </component>
+</project>
